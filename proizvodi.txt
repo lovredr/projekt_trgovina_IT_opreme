@@ -1,0 +1,118 @@
+1:Procesor:AMD:Ryzen 7 3700X:2300:5
+2:Procesor:AMD:Ryzen 5 5600X:2150:3
+3:Procesor:AMD:Ryzen 9 5900X:4200:1
+4:Procesor:Intel:Core i9-10900K:3700:3
+5:Procesor:Intel:Core i5-11600K:2100:5
+6:Procesor:Intel:Core i7-11700K:2800:2
+7:Maticna ploca:ASUS:ROG Strix Z490-G:1850:6
+8:Maticna ploca:ASUS:TUF Z590 Plus WIFI:1800:5
+9:Maticna ploca:ASUS:Prime X570-PRO:1900:7
+10:Maticna ploca:GIGABYTE:Z490 AORUS ULTRA:2000:5
+11:Maticna ploca:GIGABYTE:Z590 AORUS ELITE:1750:6
+12:Maticna ploca:GIGABYTE:X570 AORUS MASTER:3000:3
+13:Maticna ploca:MSI:Z490-A PRO:950:9
+14:Maticna ploca:MSI:MEG Z590 GODLIKE:5300:1
+15:Maticna ploca:MSI:MAG X570 TOMAHAWK WIFI:2000:6
+16:Memorija:G.Skill:DDR4 16GB (1x16) G.Skill 3000MHz AEGIS:450:12
+17:Memorija:G.Skill:DDR4 32GB (2x16) G.Skill 3600Mhz Ripjaws V:1250:10
+18:Memorija:G.Skill:DDR4 64GB (4x16) G.Skill 3200MHz TridentZ NEO:3000:2
+19:Memorija:Kingston:DDR4 16GB (1x16) Kingston 3200MHz Fury RGB C16:700:8
+20:Memorija:Kingston:DDR4 16GB (2x8) Kingston 3200MHz Fury BEAST C16:600:5
+21:Memorija:Kingston:DDR4 32GB (2x16) Kingston 3200MHz Fury Renegade:1200:11
+22:Memorija:Crucial:Ballistix 64GB Kit DDR4 2x32GB 3600 CL16:2600:3
+23:Graficka kartica:ASUS:ROG-STRIX-RTX3080-O10G-GAMING:15000:2
+24:Graficka kartica:ASUS:TUF-RTX3090-24G-GAMING:24000:1
+25:Graficka kartica:ASUS:RADEON-RX6900XT-16G:12700:1
+26:Graficka kartica:GIGABYTE:RX 580 GAMING 8G:3000:4
+27:Graficka kartica:GIGABYTE:GTX 1070 G1 Gaming 8G:3000:2
+28:Graficka kartica:GIGABYTE:GTX 1660 Ti OC 6G:3500:6
+29:Graficka kartica:EVGA:GTX 970 SC GAMING ACX 2.0:1500:2
+30:Graficka kartica:EVGA:RTX 2060 SUPER SC ULTRA GAMING:5200:8
+31:Graficka kartica:EVGA:RTX 2080 Ti XC ULTRA GAMING:9000:3
+32:HDD:Western Digital:WD Blue 1TB 3.5" 5400rpm:300:25
+33:HDD:Western Digital:WD Black 4TB 3.5" 7200rpm:1500:16
+34:HDD:Western Digital:WD Red 10TB 3.5" 5400rpm:1500:18
+35:HDD:Seagate:Barracuda 2TB 2.5" 5400rpm:550:15
+36:HDD:Seagate:Barracuda 8TB 3.5" 5400rpm:1500:17
+37:HDD:Seagate:IronWolf Pro NAS 18TB 3.5" 7200rpm:4200:5
+38:SSD:Samsung:860 EVO 500GB:550:22
+39:SSD:Samsung:970 EVO PLUS 1TB:1000:20
+40:SSD:Samsung:980 PRO 2TB:2950:10
+41:SSD:Crucial:BX500 480GB:350:19
+42:SSD:Crucial:MX500 250GB:350:27
+43:SSD:Crucial:P1 1TB:450:12
+44:SSD:Western Digital:SN550 1TB:800:18
+45:SSD:Western Digital:SN750 1TB:1200:11
+46:SSD:Western Digital:SN850 1TB:1400:7
+47:SSD:ADATA:2TB XPG SX8200 Pro:1800:13
+48:Napajanje:Seasonic:FOCUS GX 850:1050:7
+49:Napajanje:Seasonic:PRIME PX 1000:2300:5
+50:Napajanje:Seasonic:PRIME 600 Titanium Fanless:2000:5
+51:Napajanje:Corsair:CX450M:400:14
+52:Napajanje:Corsair:RM750X:1000:15
+53:Napajanje:Corsair:HX1000:1600:10
+54:Napajanje:EVGA:600W W2:400:9
+55:Napajanje:EVGA:550W SuperNOVA G3:850:10
+56:Napajanje:EVGA:1600W SuperNOVA P+:3500:2
+57:Kuciste:Fractal Design:Meshify C:850:5
+58:Kuciste:NZXT:H510 White Window:1000:7
+59:Kuciste:NZXT:H1 Black (sa 650W napajanjem):3100:2
+60:Kuciste:Be quiet!:Dark Base 900 Orange:1800:6
+61:Kuciste:Be quiet!:Silent Base 802 White Window:1300:5
+62:Kuciste:ASUS:ROG Strix Helios:2500:3
+63:Kuciste:ASUS:TUF Gaming GT501:1300:3
+64:Kuciste:Corsair:Carbide Series SPEC-01:500:9
+65:Kuciste:Corsair:Carbide Series SPEC-05:550:10
+66:Kuciste:Cooler Master:MasterCase H500M:2000:4
+67:Kuciste:Silverstone:RL06-PRO:700:7
+68:Hladenje:Noctua:NH-C14S:650:12
+69:Hladenje:Noctua:NH-U12A:900:10
+70:Hladenje:Noctua:NH-D15S Chromax Black:850:8
+71:Hladenje:Cooler Master:Hyper H412R:250:20
+72:Hladenje:Cooler Master:Hyper 212 RGB:400:14
+73:Hladenje:Cooler Master:MasterLiquid 240:750:6
+74:Hladenje:Be quiet!:Dark Rock 4:450:10
+75:Hladenje:Be quiet!:Dark Rock PRO 4:650:8
+76:Hladenje:Be quiet!:Silent Loop 2 360mm:1200:3
+77:Monitor:DELL:S2721DGFA 27":3250:4
+78:Monitor:DELL:AW2521HFA 25":2450:5
+79:Monitor:DELL:AW3418DW 34" Ultrawide:8400:1
+80:Monitor:AOC:I2490VXQ 23.8":1300:9
+81:Monitor:AOC:CQ27G2U/BK 27":2250:8
+82:Monitor:AOC:CQ32G3SU 31.5":3000:8
+83:Monitor:LG:UltraGear 32GN550-B 32":2000:7
+84:Monitor:LG:UltraGear 27GN600-B 27":1850:9
+85:Monitor:LG:24GM79G-B 24":1500:11
+86:Mis:Logitech:MX Master 3:600:25
+87:Mis:Logitech:G502 Hero:500:20
+88:Mis:Logitech:G603:500:18
+89:Mis:Logitech:B100 Black:50:26
+90:Mis:Razer:Viper Ultimate:1050:5
+91:Mis:Razer:Naga Trinity:700:10
+92:Mis:Razer:DeathAdder V2 Mini:250:12
+93:Mis:Gloriuos:Race Model D White:500:5
+94:Mis:Gloriuos:Race Model O Black:500:4
+95:Mis:Gloriuos:Race Model O Black Shiny:500:5
+96:Tipkovnica:Logitech:G915:1500:2
+97:Tipkovnica:Logitech:G513:900:5
+98:Tipkovnica:Logitech:MK120 (tipkovnica + mis):150:20
+99:Tipkovnica:Keychron:K2:450:6
+100:Tipkovnica:Keychron:K4:450:5
+101:Tipkovnica:Keychron:K8:450:5
+102:Tipkovnica:Razer:BlackWidow V3:700:8
+103:Tipkovnica:Razer:Huntsman Mini:950:7
+104:Tipkovnica:Corsair:K65 LUX RGB:900:6
+105:Tipkovnica:Corsair:K63 Compact:650:5
+106:Slusalice:Logitech:H111:100:18
+107:Slusalice:Logitech:G332:300:12
+108:Slusalice:Logitech:G733:950:9
+109:Slusalice:Sennheiser:PC 2 CHAT:100:19
+110:Slusalice:Sennheiser:HD 559:650:4
+111:Slusalice:Sennheiser:PC37X:800:4
+112:Slusalice:Sennheiser:HD800S:11500:1
+113:Zvucnici:Logitech:Z623:1000:3
+114:Zvucnici:Logitech:Z533:650:6
+115:Zvucnici:Logitech:S150:150:10
+116:Zvucnici:Genius:SW-G2.1 3000:700:3
+117:Zvucnici:Genius:SW-G2.1 1250:550:4
+118:Zvucnici:Genius:SW-HF2.1 1700:500:4
